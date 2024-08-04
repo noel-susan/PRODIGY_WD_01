@@ -1,0 +1,82 @@
+[
+    {
+      "_id": "1",
+      "name": "Margherita Pizza",
+      "price": 12,
+      "images": [
+        "img/menu-images/pizza-margherita-1.webp",
+        "img/menu-images/pizza-margherita-2.jpg"
+      ],
+      "description": "Classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil."
+    },
+    {
+      "_id": "2",
+      "name": "Pepperoni Pizza",
+      "price": 14,
+      "images": [
+        "img/menu-images/pizza-pepperoni-1.jpg",
+        "img/menu-images/pizza-pepperoni-2.jpeg"
+      ],
+      "description": "A crowd-pleaser with spicy pepperoni, tomato sauce, and mozzarella cheese."
+    },
+    {
+      "_id": "3",
+      "name": "Vegetarian Pizza",
+      "price": 13,
+      "images": [
+        "img/menu-images/pizza-vegetarian-1.jpeg",
+        "img/menu-images/pizza-vegetarian-2.jpeg"
+      ],
+      "description": "Delightful combination of fresh vegetables, mozzarella cheese, and a light tomato base."
+    },
+    {
+      "_id": "4",
+      "name": "Supreme Pizza",
+      "price": 15,
+      "images": [
+        "img/menu-images/pizza-supreme-1.jpeg",
+        "img/menu-images/pizza-supreme-2.jpeg"
+      ],
+      "description": "Loaded with pepperoni, sausage, mushrooms, onions, and bell peppers."
+    },
+    {
+      "_id": "5",
+      "name": "Hawaiian Pizza",
+      "price": 14,
+      "images": [
+        "img/menu-images/pizza-hawaiian-1.jpeg",
+        "img/menu-images/pizza-hawaiian-2.jpg"
+      ],
+      "description": "Sweet and savory with ham, pineapple, and mozzarella cheese."
+    },
+    {
+      "_id": "6",
+      "name": "Meat Lovers Pizza",
+      "price": 16,
+      "images": [
+        "img/menu-images/pizza-meatlovers-1.jpeg",
+        "img/menu-images/pizza-meatlovers-2.avif"
+      ],
+      "description": "A carnivore's dream with pepperoni, sausage, bacon, and ground beef."
+    },
+    {
+      "_id": "7",
+      "name": "BBQ Chicken Pizza",
+      "price": 15,
+      "images": [
+        "img/menu-images/pizza-bbqchicken-1.jpg",
+        "img/menu-images/pizza-bbqchicken-2.jpeg"
+      ],
+      "description": "Grilled chicken, red onions, and a sweet BBQ sauce on a crispy crust."
+    },
+    {
+      "_id": "8",
+      "name": "Mushroom and Spinach Pizza",
+      "price": 13,
+      "images": [
+        "img/menu-images/pizza-mushroomspinach-1.webp",
+        "img/menu-images/pizza-mushroomspinach-2.jpeg"
+      ],
+      "description": "A flavorful vegetarian option with mushrooms, spinach, and garlic."
+    }
+  ]
